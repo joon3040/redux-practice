@@ -1,3 +1,10 @@
+도메인주소: https://redux-practice77.netlify.app/
+
+리액트 리덕스를 활용한 숫자 증감 페이지
+로그인 버튼을 누르면 미리 설정한 글자가 나타나고
+증가, 감소 버튼에 따라 미리 설정한 payload:num:5로 +5, -5씩 증가, 감소한다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
